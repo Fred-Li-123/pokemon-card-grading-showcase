@@ -1,8 +1,6 @@
 # Pokémon Card Grading
 **Learning card condition from front-and-back images**
 
-[中文介绍](README.zh-CN.md) · [Author](https://github.com/Fred-Li-123)
-
 A computer vision research project investigating how whole-card appearance, local corner details, and training objectives affect automated card grading.
 
 **Input:** a card's front and back images  
@@ -74,5 +72,3 @@ The six output categories are grouped research labels. A prediction is not a pro
 ## Repository scope
 
 This repository contains project documentation only. It does not provide an executable training or inference package, a hosted prediction service, or model downloads.
-
-**Author:** [Fred-Li-123](https://github.com/Fred-Li-123)
