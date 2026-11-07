@@ -1,0 +1,5 @@
+# This public repository tracks only its reviewed overview documents.
+*
+!/.gitignore
+!/README.md
+!/README.zh-CN.md
